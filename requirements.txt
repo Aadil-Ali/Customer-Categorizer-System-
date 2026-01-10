@@ -9,6 +9,6 @@ python-dotenv
 selenium
 streamlit
 tiktoken
-pandas
-numpy<2.0.0
+pandas==2.1.4
+numpy==1.26.4
 -e .
